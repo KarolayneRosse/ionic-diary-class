@@ -1,0 +1,7 @@
+{
+  "name": "ionic-diary-class",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
